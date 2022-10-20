@@ -1,0 +1,15 @@
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\bin\Debug\net6.0\BowlingGame.exe
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\bin\Debug\net6.0\BowlingGame.deps.json
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\bin\Debug\net6.0\BowlingGame.runtimeconfig.json
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\bin\Debug\net6.0\BowlingGame.dll
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\bin\Debug\net6.0\BowlingGame.pdb
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.csproj.AssemblyReference.cache
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.AssemblyInfoInputs.cache
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.AssemblyInfo.cs
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.csproj.CoreCompileInputs.cache
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.dll
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\obj\Debug\net6.0\refint\BowlingGame.dll
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.pdb
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\obj\Debug\net6.0\BowlingGame.genruntimeconfig.cache
+C:\Users\Amine\Desktop\BowlingGame\BowlingGame\obj\Debug\net6.0\ref\BowlingGame.dll
